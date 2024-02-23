@@ -13,7 +13,6 @@
 // data_out: Saída de dados com BITS_SIZE bits, representando o resultado do deslocamento
 // à esquerda ou à direita.
 //
-// Baseado no trabalho de Caskman. 
 ////////////////////////////////////////////////////////////////////////////////
 
 module Shift2LRegister #(
