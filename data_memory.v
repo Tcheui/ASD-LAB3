@@ -14,7 +14,7 @@
 // SAÍDAS:-
 // ReadData: Saída de 32 bits com a informação passada no endereço Address.
 //
-// Baseado no trabalho de Caskman
+// Baseado no trabalho de archisman-dey
 ////////////////////////////////////////////////////////////////////////////////
 
 module DataMemory #(
